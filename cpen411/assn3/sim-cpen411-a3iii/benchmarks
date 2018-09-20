@@ -1,0 +1,8 @@
+cd fpppp
+cat README && sh README
+cd ../gcc
+cat README && sh README
+cd ../go
+cat README && sh README
+cd ../vpr
+cat README && sh README
